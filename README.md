@@ -1,4 +1,4 @@
-**Hi! ¡Hola! Oi! Salut !** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **I'm Luisa!**
+**Hi!** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **I'm Luisa!**
 
 <details>
 <summary>🚀 Data Scientist</summary>
@@ -9,9 +9,8 @@
 
 <summary>🎓 Education </summary>
     <ul>
-<li>MI am currently pursuing a master's degree in data and analytics (Universidad Central) and a specialization in machine learning (Universidad EAN).</li>
-<li>Bachelor's degree in Economy, Emphasis on international finance from Universidad Colegio Mayor de Cundinamarca</li>
-<li>Been coding for over six years!</li>
+<li>I am currently pursuing a master's degree in Data and Analytics (Central Univesity) and a specialization in Machine Learning (EAN University).</li>
+<li>Bachelor's degree in Economy, Emphasis on International Finance from Colegio Mayor de Cundinamarca University</li>
         </ul>
 </details>
 
@@ -45,5 +44,3 @@
   </p>
 
 <hr>
-
-# Learn Data & AI with me!: 🚀 [Miss Factorial Academy](https://missfactorial.com)
