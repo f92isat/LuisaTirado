@@ -10,24 +10,23 @@
 <summary>🎓 Education </summary>
     <ul>
 <li>Master's in Data Science from the University of San Francisco.</li>
-<li>Bachelor's degree in Mathematics and Associate's degree in Media Production.</li>
-<li>Been coding for over ten years!</li>
+<li>Bachelor's degree in Economy, Emphasis on international finance from Universidad Colegio Mayor de Cundinamarca</li>
+<li>Been coding for over six years!</li>
         </ul>
 </details>
 
 <details>
-<summary>💅 Outside of tech</summary>
+<summary> Hobbies </summary>
 <ul>
-<li>Experience as a TV and radio host in the USA, Colombia, and the Dominican Republic.</li>
-<li>Participated as Miss Sucre at the Miss Universe Colombia 2021 pageant and placed in the top 13.</li>
-<li>Been to 23 countries and counting!</li>
+<li> Trail Runner passionate.</li>
+<li>Passionate reader.</li>
     </ul>
 </details>
 
 <hr>
 
 #### 💬 Let's get in touch!
-<b><a href='https://www.linkedin.com/in/vivianamarquez' target='_blank'>LinkedIn</a></b> | <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>Resume</a></b> | <b><a href='https://vivianamarquez.com' target='_blank'>Website</a></b>
+<b><a href='https://www.linkedin.com/in/luisa-tirado-le%C3%B3n-16455b18b/' target='_blank'>LinkedIn</a></b> | <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>Resume</a></b> | <b><a 
 <br><br>
 ![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=CB62B2) 
 <hr>
