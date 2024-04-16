@@ -1,4 +1,5 @@
-**Hi!** 👋🏻 **I'm Luisa!**
+**Hi!** 👋🏻 **I'm Luisa!**![image](https://github.com/f92isat/LuisaTirado/assets/68922679/246ae1d3-7a51-4594-a24f-af4a9197d467)
+
 
 <details>
 <summary> 🚀 Data Scientist | 🧮 Economist |🤖 Spec ML.</summary>
