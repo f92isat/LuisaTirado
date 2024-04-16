@@ -15,9 +15,9 @@
 </details>
 
 <details>
-<summary> 🏋🏻‍♀️ Hobbies </summary>
+<summary> 📖 🌄 Hobbies </summary>
 <ul>
-<li> Trail Runner passionate.</li>
+<li> Trail Runner.</li>
 <li>Passionate reader.</li>
     </ul>
 </details>
