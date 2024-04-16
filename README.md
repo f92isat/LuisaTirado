@@ -1,4 +1,5 @@
-**Hi!** 👋🏻 **I'm Luisa!**![image](https://github.com/f92isat/LuisaTirado/assets/68922679/246ae1d3-7a51-4594-a24f-af4a9197d467)
+**Hi!** 👋🏻 **I'm Luisa!**!<img src="https://github.com/f92isat/LuisaTirado/assets/68922679/246ae1d3-7a51-4594-a24f-af4a9197d467" width="32" height="32">
+
 
 
 <details>
