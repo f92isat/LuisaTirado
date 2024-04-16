@@ -11,7 +11,7 @@
     <ul>
 <li>I am currently pursuing a master's degree in Data and Analytics (Central Univesity) and a specialization in Machine Learning (EAN University).</li>
 <li>Bachelor's degree in Economy, Emphasis on International Finance from Colegio Mayor de Cundinamarca University</li>
-        </ul>
+    </ul>
 </details>
 
 <details>
