@@ -25,7 +25,7 @@
 <hr>
 
 #### 💬 Let's get in touch!
-<b><a href='https://www.linkedin.com/in/luisa-tirado-le%C3%B3n-16455b18b/' target='_blank'>LinkedIn</a></b> | <b><a 
+<b><a href='https://www.linkedin.com/in/luisa-tirado-le%C3%B3n-16455b18b/' target='_blank'>LinkedIn</a></b> | <b><a> 
 <br><br>
 ![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=CB62B2) 
 <hr>
