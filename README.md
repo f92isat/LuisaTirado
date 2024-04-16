@@ -9,7 +9,7 @@
 
 <summary>🎓 Education </summary>
     <ul>
-<li>Master's in Data Science from the University of San Francisco.</li>
+<li>MI am currently pursuing a master's degree in data and analytics (Universidad Central) and a specialization in machine learning (Universidad EAN).</li>
 <li>Bachelor's degree in Economy, Emphasis on international finance from Universidad Colegio Mayor de Cundinamarca</li>
 <li>Been coding for over six years!</li>
         </ul>
@@ -26,7 +26,7 @@
 <hr>
 
 #### 💬 Let's get in touch!
-<b><a href='https://www.linkedin.com/in/luisa-tirado-le%C3%B3n-16455b18b/' target='_blank'>LinkedIn</a></b> | <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>Resume</a></b> | <b><a 
+<b><a href='https://www.linkedin.com/in/luisa-tirado-le%C3%B3n-16455b18b/' target='_blank'>LinkedIn</a></b> | <b><a 
 <br><br>
 ![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=CB62B2) 
 <hr>
