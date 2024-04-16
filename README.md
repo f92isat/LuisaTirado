@@ -6,6 +6,8 @@
 <li>Economist with advanced knowledge in Data Science, extensive experience in information technology, and economic and financial analysis. Specialist in Machine Learning, Python, Data Analysis, Artificial Intelligence, Big Data, Deep Neural Networks, and Business Intelligence. Passionate about transforming complex data into innovative business solutions and data-driven strategies.</li>
         </ul>
 </details>
+
+</details>
 <summary> 🎓 Education </summary>
     <ul>
 <li>I am currently pursuing a master's degree in Data and Analytics (Central Univesity) and a specialization in Machine Learning (EAN University).</li>
