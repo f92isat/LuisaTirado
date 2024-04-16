@@ -1,13 +1,13 @@
 **Hi!** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **I'm Luisa!**
 
 <details>
-<summary>🚀 Data Scientist</summary>
+<summary> 🤖 Data Scientist</summary>
     <ul>
 <li>Economist with advanced knowledge in Data Science, extensive experience in information technology, and economic and financial analysis. Specialist in Machine Learning, Python, Data Analysis, Artificial Intelligence, Big Data, Deep Neural Networks, and Business Intelligence. Passionate about transforming complex data into innovative business solutions and data-driven strategies.</li>
         </ul>
 </details>
 
-<summary>🎓 Education </summary>
+<summary> 🎓 Education </summary>
     <ul>
 <li>I am currently pursuing a master's degree in Data and Analytics (Central Univesity) and a specialization in Machine Learning (EAN University).</li>
 <li>Bachelor's degree in Economy, Emphasis on International Finance from Colegio Mayor de Cundinamarca University</li>
@@ -15,7 +15,7 @@
 </details>
 
 <details>
-<summary> Hobbies </summary>
+<summary> 🏋🏻‍♀️ Hobbies </summary>
 <ul>
 <li> Trail Runner passionate.</li>
 <li>Passionate reader.</li>
